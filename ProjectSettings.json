@@ -1,0 +1,44 @@
+{
+  "ProjectName": "4bit-calc",
+  "BuildVersion": "1.0.2",
+  "CreationTime": "2023-11-08T07:58:08.408664+07:00",
+  "AllCreatedChips": [
+    "NAND",
+    "OR",
+    "XOR",
+    "ADDER",
+    "4BIT ADDER",
+    "ALU",
+    "SR LATCH",
+    "NOR",
+    "D LATCH",
+    "D FLIP-FLOP",
+    "REGISTER",
+    "4BIT REGISTER",
+    "BUS BUFFER",
+    "MUX",
+    "AUTO CLOCK",
+    "MAIN",
+    "DSP DRIVER",
+    "DIFF CHECK",
+    "2 INPUT MUX",
+    "HEX DSP",
+    "TCN DSP",
+    "7BIT MUX"
+  ],
+  "StarredChips": [
+    "ALU",
+    "MUX",
+    "BUS",
+    "4BIT REGISTER",
+    "AUTO CLOCK",
+    "DSP DRIVER",
+    "7-SEGMENT DISPLAY",
+    "MAIN"
+  ],
+  "DisplayOptions": {
+    "MainChipPinNameDisplayMode": 2,
+    "SubChipPinNameDisplayMode": 2,
+    "ShowCursorGuide": 0
+  }
+}
