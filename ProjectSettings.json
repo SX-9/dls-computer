@@ -24,7 +24,9 @@
     "2 INPUT MUX",
     "HEX DSP",
     "TCN DSP",
-    "7BIT MUX"
+    "7BIT MUX",
+    "DECODER",
+    "SELECTOR"
   ],
   "StarredChips": [
     "ALU",
@@ -34,7 +36,9 @@
     "AUTO CLOCK",
     "DSP DRIVER",
     "7-SEGMENT DISPLAY",
-    "MAIN"
+    "MAIN",
+    "DECODER",
+    "SELECTOR"
   ],
   "DisplayOptions": {
     "MainChipPinNameDisplayMode": 2,
