@@ -29,7 +29,8 @@
     "SELECTOR",
     "CLOCK CONTROL",
     "ALU CONTROL",
-    "CPU"
+    "CPU",
+    "4BIT D LATCH"
   ],
   "StarredChips": [
     "ALU",
