@@ -3,19 +3,19 @@
   "Colour": "#53072C",
   "InputPins": [
     {
-      "Name": "",
+      "Name": "IN 2",
       "ID": 1040342440,
       "PositionY": 0.989583135,
       "ColourThemeName": "Red"
     },
     {
-      "Name": "Pin",
+      "Name": "IN 1",
       "ID": 1438557323,
       "PositionY": 0.2734375,
       "ColourThemeName": "Red"
     },
     {
-      "Name": "Pin",
+      "Name": "CARRY IN",
       "ID": 35084307,
       "PositionY": -0.455729067,
       "ColourThemeName": "Red"

@@ -25,11 +25,13 @@
     "HEX DSP",
     "TCN DSP",
     "7BIT MUX",
-    "DECODER",
+    "REPL",
     "SELECTOR",
     "CLOCK CONTROL",
     "ALU CONTROL",
-    "CPU"
+    "REPL MODE",
+    "COUNTER",
+    "4BIT 0CHECK"
   ],
   "StarredChips": [
     "ALU",
@@ -40,8 +42,8 @@
     "DSP DRIVER",
     "7-SEGMENT DISPLAY",
     "MAIN",
-    "DECODER",
-    "CPU"
+    "REPL",
+    "REPL MODE"
   ],
   "DisplayOptions": {
     "MainChipPinNameDisplayMode": 2,
