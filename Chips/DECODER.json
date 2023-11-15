@@ -1,5 +1,5 @@
 {
-  "Name": "REPL",
+  "Name": "DECODER",
   "Colour": "#C38A30",
   "InputPins": [
     {
@@ -39,7 +39,7 @@
       "ColourThemeName": "Red"
     },
     {
-      "Name": "CLOCK",
+      "Name": "EXEC",
       "ID": 1068340608,
       "PositionY": -1.70833325,
       "ColourThemeName": "Red"
