@@ -1,6 +1,6 @@
 {
   "Name": "DECODER",
-  "Colour": "#C38A30",
+  "Colour": "#9330C3",
   "InputPins": [
     {
       "Name": "OPCODE 1",
