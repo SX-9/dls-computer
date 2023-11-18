@@ -33,7 +33,6 @@
     "COUNTER",
     "4BIT 0CHECK",
     "4BIT D LATCH ",
-    "6BIT IR",
     "ROM (COUNTER)",
     "6BIT BUFFER",
     "3BIT DECODER",
@@ -43,13 +42,16 @@
     "ROM (5-3)",
     "ROM (SUB)",
     "4 AND",
-    "ROM (TEMPLATE)"
+    "ROM (TEMPLATE)",
+    "ROM (RESET)",
+    "ROM MUX"
   ],
   "StarredChips": [
     "ROM (10+5)",
     "ROM (COUNTER)",
     "ROM (5-3)",
     "ROM (SUB)",
+    "ROM (RESET)",
     "ROM (TEMPLATE)",
     "COMPUTER"
   ],
